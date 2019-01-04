@@ -53,16 +53,16 @@ img:hover {
   width: 30%;
 }
 .small { 
-  height: 33.33%;
-  width: 33.33%;
+  height: 100%;
+  width: 100%;
   }
 
 .med { 
-  height: 66.66%;
-  width: 66.66%;
+  height: 200%;
+  width: 200%;
   }
 
 .large {
-  height: 100%;
-  width: 100%;
+  height: 300%;
+  width: 300%;
 }
