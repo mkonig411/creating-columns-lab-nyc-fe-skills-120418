@@ -65,4 +65,8 @@ img:hover {
 .large {
   height: 300%;
   width: 300%;
+  position: Relative
+top: 25px
+left: 200px }
 }
+
