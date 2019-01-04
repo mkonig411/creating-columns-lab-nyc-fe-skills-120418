@@ -49,10 +49,9 @@ img:hover {
 
 .column {
   display: inline-block;
-  box-sizing: border-box;
   width: 30%;
-  float: left;
 }
+
 .small { 
   height: 100%;
   width: 100%;
